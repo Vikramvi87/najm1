@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project default_configuration_name="Configuration 1" fallback_default_config_name="Configuration 1" file_encoding="ISO-8859-1" ltd_name=".net" name="fjkhgfrl" version="10.2.0">
+	<Configuration name="Configuration 1"/>
+	<Source exclude="false" path=".\DotNetGoat.dll" web="false"/>
+	<Source exclude="false" path=".\EnvDTE.dll" web="false"/>
+	<Source exclude="false" path=".\EnvDTE80.dll" web="false"/>
+	<Source exclude="false" path=".\Mono.Data.Sqlite.dll" web="false"/>
+	<Source exclude="false" path=".\log4net.dll" web="false"/>
+	<Source exclude="false" path=".\mysql.data.dll" web="false"/>
+	<Source exclude="false" path=".\mysql.data.entity.dll" web="false"/>
+	<Source exclude="false" path=".\mysql.visualstudio.dll" web="false"/>
+	<Source exclude="false" path=".\mysql.web.dll" web="false"/>
+	<Source exclude="false" path=".\stdole.dll" web="false"/>
+	<ProjectScanSettings secret_scanner="false"/>
+</Project>
